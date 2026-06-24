@@ -176,7 +176,7 @@ At **National Debt Advisors**, we help over-indebted South Africans find a way f
 
 **Lower your monthly repayments by up to 50%. Protect your assets. Stop creditor harassment.**
 
-[**Apply for your FREE debt assessment →**](https://nationaldebtadvisors.co.za/)
+[**Apply for your FREE debt assessment →**](https://nationaldebtadvisors.co.za/apply/)
 
 ---
 
@@ -196,7 +196,7 @@ Please check the following before approving for client submission:
 - [ ] No mention of specific competitors
 - [ ] Disclaimer at the bottom is present and accurate
 - [ ] Blog is free of grammatical or factual errors
-- [ ] Recommend whether images/infographics should be requested from the design team
+- [x] Recommend whether images/infographics should be requested from the design team — **YES, request from design team:** (1) header image: person reviewing documents/bills with concern; (2) timeline infographic: "The First 60 Days" showing escalation steps; (3) options flowchart: "What Can I Do When I Can't Pay?" covering the 3 paths (negotiate, credit life insurance, debt review)
 
 **Approved / Changes Required / Rejected:** ___________________________  
 **Reviewer signature/handle:** ___________________________  
