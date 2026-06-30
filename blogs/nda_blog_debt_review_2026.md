@@ -1,5 +1,5 @@
 # BLOG SUBMISSION — NATIONAL DEBT ADVISORS
-**Status:** PENDING REVIEW  
+**Status:** APPROVED — Ready for client sign-off (1 correction applied — see reviewer notes)  
 **Submitted by:** Marketing Agent  
 **Date:** 24 June 2026  
 **Target Repo:** E:\Git_Marketing\MarketingTeam  
@@ -174,7 +174,7 @@ Financial crises have a way of snowballing. The sooner you take action, the more
 
 At **National Debt Advisors**, we help over-indebted South Africans find a way forward — even when it feels like there isn't one. Our registered debt counsellors will assess your situation at no cost and tell you honestly whether debt review is right for you.
 
-**Lower your monthly repayments by up to 50%. Protect your assets. Stop creditor harassment.**
+**Significantly reduce your monthly repayments to an amount you can afford. Protect your assets. Stop creditor harassment.**
 
 [**Apply for your FREE debt assessment →**](https://nationaldebtadvisors.co.za/)
 
@@ -188,16 +188,20 @@ At **National Debt Advisors**, we help over-indebted South Africans find a way f
 
 Please check the following before approving for client submission:
 
-- [ ] Tone is consistent with NDA's empathetic, non-judgmental brand voice
-- [ ] No duplicate topics with existing published content (see research summary above)
-- [ ] All claims are factually accurate under South African law (NCA, UIF)
-- [ ] CTA links are correct and point to nationaldebtadvisors.co.za
-- [ ] Slug, meta description, and keyword targets align with current SEO strategy
-- [ ] No mention of specific competitors
-- [ ] Disclaimer at the bottom is present and accurate
-- [ ] Blog is free of grammatical or factual errors
-- [ ] Recommend whether images/infographics should be requested from the design team
+- [x] Tone is consistent with NDA's empathetic, non-judgmental brand voice ✓
+- [x] No duplicate topics with existing published content ✓ ("what happens to your debt when you lose your job" confirmed as content gap)
+- [x] All claims factually accurate under South African law (NCA, UIF) ✓ — Section 129 notice ✓, asset protection under Section 88(3) ✓, credit life insurance ✓, UIF entitlement and claim process ✓
+- [x] CTA link is correct and points to nationaldebtadvisors.co.za ✓
+- [x] Slug, meta description, and keyword targets align with SEO strategy ✓
+- [x] No mention of specific competitors ✓
+- [x] Disclaimer present and accurate ✓
+- [x] Blog is free of grammatical or factual errors ✓ (1 correction applied — see below)
+- [ ] Infographic: Recommend a "What to do in the first 60 days" flowchart from the design team
 
-**Approved / Changes Required / Rejected:** ___________________________  
-**Reviewer signature/handle:** ___________________________  
-**Date reviewed:** ___________________________
+**CORRECTION APPLIED:** CTA line changed from "Lower your monthly repayments by up to 50%" to "Significantly reduce your monthly repayments to an amount you can afford." Reason: specific unverified quantitative claim, inconsistent with NCA compliance guideline against overpromising outcomes. The same "up to 50%" language appears unapproved in `blog-05-surviving-2026-cost-of-living-crisis.md` — that blog should also be reviewed before publishing.
+
+**ACTION REQUIRED:** Confirm that the testimonial from "N. Esterhuysen" is a real client quote with written consent on file before publishing.
+
+**Approved / Changes Required / Rejected:** APPROVED — 1 correction applied (see above); pending testimonial consent confirmation  
+**Reviewer signature/handle:** Marketing Review Agent  
+**Date reviewed:** 30 June 2026

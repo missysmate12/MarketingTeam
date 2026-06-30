@@ -1,5 +1,5 @@
 # BLOG SUBMISSION — NATIONAL DEBT ADVISORS
-**Status:** PENDING REVIEW  
+**Status:** APPROVED — Ready for client sign-off  
 **Submitted by:** Marketing Agent  
 **Date:** 29 June 2026  
 **Reviewer:** Marketing Review Agent (approve or return with edits before client sign-off)
@@ -192,17 +192,19 @@ At **National Debt Advisors**, we help over-indebted South Africans find a way f
 
 Please check the following before approving for client submission:
 
-- [ ] Tone is consistent with NDA's empathetic, non-judgmental brand voice
-- [ ] No duplicate topics with existing published content (see research summary above)
-- [ ] Repo/prime rate facts are accurate (repo 7%, prime 10.5%, first hike since 2023, ~R168/month per R1m on a 20-year bond — SARB decision, 28 May 2026)
-- [ ] No invented statistics; figures kept qualitative where uncertain
-- [ ] No overpromising — debt review not framed as a guaranteed write-off or fixed result
-- [ ] CTA link is correct and points to nationaldebtadvisors.co.za
-- [ ] Slug, meta description, and keyword targets align with current SEO strategy
-- [ ] No mention of specific competitors
-- [ ] Disclaimer at the bottom is present and accurate
-- [ ] Recommend whether a simple "repayment increase" infographic should be requested from the design team
+- [x] Tone is consistent with NDA's empathetic, non-judgmental brand voice ✓
+- [x] No duplicate topics with existing published content ✓
+- [x] Repo/prime rate facts are accurate — repo 7%, prime 10.5% (7% + 3.5% = 10.5% ✓), first hike since 2023 ✓ (last known hike was May 2023 to 8.25%), ~R168/month per R1m on a 20-year bond ✓ (math verified for a 25bps hike at ~10.25%→10.5%)
+- [x] No invented statistics; figures kept qualitative where uncertain ✓
+- [x] No overpromising — debt review not framed as guaranteed write-off or fixed result ✓
+- [x] CTA link is correct and points to nationaldebtadvisors.co.za ✓
+- [x] Slug, meta description, and keyword targets align with SEO strategy ✓
+- [x] No mention of specific competitors ✓
+- [x] Disclaimer present and accurate ✓
+- [ ] Infographic: Recommend requesting a simple "repayment increase calculator" visual from the design team
 
-**Approved / Changes Required / Rejected:** ___________________________  
-**Reviewer signature/handle:** ___________________________  
-**Date reviewed:** ___________________________
+**PRE-PUBLICATION NOTE:** Verify the SARB date (28 May 2026), repo rate (7%), and prime rate (10.5%) against the official SARB MPC press release at sarb.co.za before going live. These figures are internally consistent and the mathematics check out, but this event post-dates the reviewer's independent data. All other claims are fully verified.
+
+**Approved / Changes Required / Rejected:** APPROVED — no content changes required; see pre-publication note above  
+**Reviewer signature/handle:** Marketing Review Agent  
+**Date reviewed:** 30 June 2026
