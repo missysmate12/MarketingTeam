@@ -1,0 +1,26 @@
+# This is a GitHub Actions workflow — it tells GitHub to run checks
+# automatically. The name below is what you'll see in the "Actions" tab.
+name: Content checks
+
+# WHEN should the checks run?
+on:
+  pull_request:          # every time a PR is opened or updated
+  push:
+    branches: [main]     # and every time something lands on main
+
+# WHAT should run?
+jobs:
+  link-check:
+    name: Check for broken links
+    runs-on: ubuntu-latest      # GitHub spins up a fresh Linux computer for us
+    steps:
+      # 1. Put a copy of your repo onto that computer
+      - name: Get the files
+        uses: actions/checkout@v4
+
+      # 2. Scan every Markdown (.md) file and test the links
+      - name: Look for broken links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-retries 3 "./**/*.md"
+          fail: true            # turn the check RED if a link is broken
