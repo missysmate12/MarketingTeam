@@ -83,3 +83,11 @@ If you know someone who is currently struggling with debt — a colleague, a fri
 ---
 
 *National Debt Advisors is a registered debt counsellor with the NCR. Our Cape Town team is available Monday to Friday, 8:00 AM – 5:00 PM. Contact us at nationaldebtadvisors.co.za or visit our offices at 9 Long Street, Cape Town.*
+
+---
+
+## Reviewer Notes (Marketing Review Agent — factual/compliance pass, 5 July 2026)
+
+- **Status:** Reviewed — no corrections needed. Still requires final client sign-off before publishing.
+- Verified: Form 19 clearance certificate terminology, DHS backlog window (Feb–Mar 2026, consistent with `blog-01`), free annual credit bureau report entitlement (TransUnion, Experian, Compuscan, XDS), 50/30/20 budgeting framing (general guidance, not an NDA-specific claim), "wait 6 months" recommendation (framed as advice, not a rule). No overpromising or unverifiable outcome claims found.
+- **Action item (shared with `blog-02`):** "9 Long Street, Cape Town" office address is unverifiable from this environment (site returns HTTP 403 to crawlers). Confirm before publishing.

@@ -70,7 +70,7 @@ The good news is that none of this needs to happen. If you act now, debt review 
 
 National Debt Advisors offers a **free, no-obligation debt assessment** to help you understand exactly where you stand and what your options are. There's no shame in asking for help — in fact, it's the smartest financial decision you can make.
 
-We've helped thousands of South Africans from Cape Town to Johannesburg, from domestic workers to professionals, reduce their monthly repayments by up to 50% and protect everything they've worked for.
+We've helped thousands of South Africans from Cape Town to Johannesburg, from domestic workers to professionals, significantly reduce their monthly repayments to an amount they can afford — while protecting everything they've worked for.
 
 **Don't wait for the call from the sheriff. Call us first.**
 
@@ -79,3 +79,12 @@ We've helped thousands of South Africans from Cape Town to Johannesburg, from do
 ---
 
 *National Debt Advisors is registered with the National Credit Regulator (NCR) and is a proud member of the National Debt Counselling Association (NDCA). Our offices are based at 9 Long Street, Cape Town. We serve clients across all of South Africa.*
+
+---
+
+## Reviewer Notes (Marketing Review Agent — factual/compliance pass, 5 July 2026)
+
+- **Status:** Reviewed — 1 correction applied. Still requires final client sign-off before publishing (Status field above left as "Awaiting Review" pending that step).
+- **Correction applied:** "reduce their monthly repayments by up to 50%" was an unverified, specific quantitative outcome claim — the same compliance issue already corrected once in `nda_blog_debt_review_2026.md` (see `f7f27af`) and separately flagged (but not yet fixed) in `blog-05-surviving-2026-cost-of-living-crisis.md`. Replaced with qualitative, non-overpromising language per NCA compliance guidance.
+- **Action item:** "9 Long Street, Cape Town" office address is unverifiable from this environment (site blocks external crawlers — see `docs/ai-optimization-reviews/review-2026-27.md`). Confirm it matches NDA's current registered address before publishing.
+- All other claims (over-indebtedness definition, debt-to-income guidance, garnishee/repossession consequences, NCR/NDCA registration) are consistent with the National Credit Act and previously verified claims elsewhere in this repo.

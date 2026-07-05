@@ -71,3 +71,12 @@ If you're struggling with monthly repayments, being harassed by creditors, or si
 ---
 
 *National Debt Advisors (NDA) is a registered debt counselling company based in Cape Town, South Africa. NDA is a member of the National Debt Counselling Association (NDCA). Always verify your debt counsellor's NCR registration before signing anything.*
+
+---
+
+## Reviewer Notes (Marketing Review Agent — factual/compliance pass, 5 July 2026)
+
+- **Status:** Reviewed — no text changes; 2 action items flagged. Still requires final client sign-off before publishing.
+- **Action item:** "We were voted South Africa's best debt counselling company in 2020" is a specific, citable award claim with no awarding body named. Confirm the award name/issuer and a verifiable source before publishing, or soften to a claim NDA can substantiate. The same claim appears in `blog-04-debt-review-myths-debunked.md` — keep both consistent if corrected.
+- **Action item:** The described 2026 NCR reforms (stricter affordability assessments, itemised fee disclosure, DHS downtime Feb–Mar 2026 / restored 31 March 2026) are directionally consistent with this repo's other content but are not tied to a specific Government Gazette notice or NCR circular number. Recommend citing the specific regulation/notice before publishing, per the same verification standard applied to SARB figures in `nda_blog_rate_hike_2026.md`.
+- No other factual issues found; NCA/NCR terminology and consumer-protection framing are accurate.

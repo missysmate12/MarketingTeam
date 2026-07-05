@@ -67,7 +67,7 @@ This is where many South Africans get stuck. Budgeting around debt is like tryin
 If your combined monthly debt repayments are consuming more than 40% of your take-home income, budgeting alone won't solve the problem. You need a structural solution — and that's what debt review is designed to provide.
 
 Debt review, through a registered debt counsellor like National Debt Advisors, can:
-- Reduce your combined monthly debt repayment by up to 50%
+- Significantly reduce your combined monthly debt repayment to an amount that fits your budget
 - Negotiate lower interest rates directly with your credit providers
 - Consolidate all your debt accounts into a single, manageable monthly payment
 - Legally protect your assets from repossession
@@ -93,7 +93,7 @@ In a tough economy, your income is your most important financial asset. Think pr
 - **Upskill:** Free and affordable online courses (Coursera, Udemy, YouTube) can position you for better opportunities.
 - **Side income:** Even R500–R1,000 per month from tutoring, baking, car washing, or selling pre-loved items can make a meaningful difference.
 - **Review your tax:** Many South Africans are entitled to tax deductions they never claim — medical expenses, home office use, retirement annuity contributions. Speak to a tax practitioner.
-- **Know your rights at work:** If you're facing retrenchment, understand your Section 189 rights and what you're entitled to under the Basic Conditions of Employment Act.
+- **Know your rights at work:** If you're facing retrenchment, understand your Section 189 (Labour Relations Act) consultation rights, and your notice-pay and severance-pay entitlements under the Basic Conditions of Employment Act.
 
 ---
 
@@ -112,3 +112,12 @@ National Debt Advisors is here to help — whether you need a debt assessment, b
 ---
 
 *National Debt Advisors. Cape Town-based, South Africa-wide. NCR registered. Monday – Friday, 8:00 AM – 5:00 PM. Visit nationaldebtadvisors.co.za or call us today.*
+
+---
+
+## Reviewer Notes (Marketing Review Agent — factual/compliance pass, 5 July 2026)
+
+- **Status:** Reviewed — 2 corrections applied. Still requires final client sign-off before publishing (Status field above left as "Awaiting Review" pending that step).
+- **Correction 1:** "Reduce your combined monthly debt repayment by up to 50%" was flagged as an outstanding action item in the previous review (`docs/ai-optimization-reviews/review-2026-27.md`, 30 June 2026) but was never actually corrected — it was still live in this file. Now fixed to qualitative, non-overpromising language, consistent with the correction already applied to `nda_blog_debt_review_2026.md` and `blog-02-7-warning-signs-you-need-debt-review.md`.
+- **Correction 2:** Section 189 (retrenchment consultation) is part of the **Labour Relations Act**, not the Basic Conditions of Employment Act. The original sentence conflated the two; reworded to attribute each entitlement to the correct Act. BCEA is correctly cited for notice/severance pay.
+- All other claims (cost-of-living context, 40% debt-to-income threshold, budgeting guidance, "not a loan"/blacklisting framing) are consistent with NCA guidance and previously verified figures elsewhere in this repo.

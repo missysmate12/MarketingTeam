@@ -95,3 +95,12 @@ National Debt Advisors offers a **free, confidential debt assessment** with no o
 ---
 
 *National Debt Advisors is an NCR-registered debt counselling firm based in Cape Town, South Africa. We have helped thousands of South Africans become debt-free since our founding. Voted best debt counselling company in South Africa in 2020.*
+
+---
+
+## Reviewer Notes (Marketing Review Agent — factual/compliance pass, 5 July 2026)
+
+- **Status:** Reviewed — no text changes; 2 action items flagged. Still requires final client sign-off before publishing.
+- **Action item:** "Most NDA clients complete debt review within 36 to 60 months" is a specific internal performance statistic with no cited source. Per this repo's compliance guideline ("never invent statistics... if you cite a number, it must be verifiable"), confirm this figure against actual NDA client data before publishing, or reframe qualitatively (e.g. "typically several years, depending on your debt load").
+- **Action item:** "Voted best debt counselling company in South Africa in 2020" — same unverified award claim as in `blog-01-ncr-2026-changes-what-you-need-to-know.md`. Confirm awarding body/source or soften before publishing.
+- Legal content verified as accurate: debt review flag removal on clearance certificate, asset protection under the NCA, confidentiality of the process, prescription under the Prescription Act (3-year general period, correctly framed as narrow/not a reliable strategy), garnishee/repossession consequences.
