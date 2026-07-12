@@ -2,7 +2,7 @@
 
 **Category:** Debt Advice | NDA Blog  
 **Author:** NDA Content Team  
-**Status:** Awaiting Review  
+**Status:** Approved  
 **Date:** June 2026  
 **SEO Focus Keyword:** debt review clearance certificate South Africa  
 **Meta Description:** Completed your debt review? Find out exactly what happens when you receive your clearance certificate, how to rebuild your credit score, and what financial freedom really looks like in South Africa.
@@ -83,3 +83,11 @@ If you know someone who is currently struggling with debt — a colleague, a fri
 ---
 
 *National Debt Advisors is a registered debt counsellor with the NCR. Our Cape Town team is available Monday to Friday, 8:00 AM – 5:00 PM. Contact us at nationaldebtadvisors.co.za or visit our offices at 9 Long Street, Cape Town.*
+
+---
+
+**Factual Review Notes (reviewed 12 July 2026):**
+- **Verified accurate:** Clearance certificate = Form 19, issued under Section 71 of the National Credit Act; credit bureaus remove the debt review flag after notification.
+- **Verified accurate:** NCR Debt Help System (DHS) backlog — offline 3 February to 31 March 2026, consistent with the article's timeline.
+- **Verified accurate:** Office address (9 Long Street, Cape Town) and business hours.
+- **Status:** APPROVED — no corrections required.

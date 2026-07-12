@@ -2,7 +2,7 @@
 
 **Category:** Debt Advice | Debt Blog  
 **Author:** NDA Content Team  
-**Status:** Awaiting Review  
+**Status:** Approved (1 item flagged for verification — see Factual Review Notes)  
 **Date:** June 2026  
 **SEO Focus Keyword:** debt review myths South Africa  
 **Meta Description:** Think debt review will ruin your life? Think again. We debunk the 6 most common debt review myths that are stopping South Africans from getting the financial help they need.
@@ -95,3 +95,10 @@ National Debt Advisors offers a **free, confidential debt assessment** with no o
 ---
 
 *National Debt Advisors is an NCR-registered debt counselling firm based in Cape Town, South Africa. We have helped thousands of South Africans become debt-free since our founding. Voted best debt counselling company in South Africa in 2020.*
+
+---
+
+**Factual Review Notes (reviewed 12 July 2026):**
+- **Verified accurate:** "Voted best debt counselling company in South Africa in 2020" (Debt Review Awards, 11 September 2020); Form 19 clearance certificate; prescription of debt under the Prescription Act (3 years, subject to conditions); Section 129/emolument attachment order mechanics.
+- **Flagged for verification (not corrected — plausible but unsourced):** "Most NDA clients complete debt review within 36 to 60 months" is a specific client-outcome statistic attributed to NDA internally. It is consistent with typical industry debt-review durations, but no internal data source was available to verify it against NDA's actual completion figures. Recommend confirming against NDA's own case data before publishing, or softening to "debt review is designed to be completed within 60 months" (the NCA-aligned general timeframe) if internal figures aren't available.
+- **Status:** APPROVED — publishable as-is; verify or soften the 36–60 month client statistic before going live.

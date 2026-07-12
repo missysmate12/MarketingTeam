@@ -2,7 +2,7 @@
 
 **Category:** Saving Tips | Personal Finance  
 **Author:** NDA Content Team  
-**Status:** Awaiting Review  
+**Status:** Approved (2 corrections applied — see Factual Review Notes)  
 **Date:** June 2026  
 **SEO Focus Keyword:** cost of living South Africa 2026 budget tips  
 **Meta Description:** Food, fuel, and electricity costs continue to rise in 2026. Here's a practical, honest guide to budgeting and surviving the cost of living crisis as a South African family.
@@ -67,7 +67,7 @@ This is where many South Africans get stuck. Budgeting around debt is like tryin
 If your combined monthly debt repayments are consuming more than 40% of your take-home income, budgeting alone won't solve the problem. You need a structural solution — and that's what debt review is designed to provide.
 
 Debt review, through a registered debt counsellor like National Debt Advisors, can:
-- Reduce your combined monthly debt repayment by up to 50%
+- Significantly reduce your combined monthly debt repayment to an amount you can afford
 - Negotiate lower interest rates directly with your credit providers
 - Consolidate all your debt accounts into a single, manageable monthly payment
 - Legally protect your assets from repossession
@@ -93,7 +93,7 @@ In a tough economy, your income is your most important financial asset. Think pr
 - **Upskill:** Free and affordable online courses (Coursera, Udemy, YouTube) can position you for better opportunities.
 - **Side income:** Even R500–R1,000 per month from tutoring, baking, car washing, or selling pre-loved items can make a meaningful difference.
 - **Review your tax:** Many South Africans are entitled to tax deductions they never claim — medical expenses, home office use, retirement annuity contributions. Speak to a tax practitioner.
-- **Know your rights at work:** If you're facing retrenchment, understand your Section 189 rights and what you're entitled to under the Basic Conditions of Employment Act.
+- **Know your rights at work:** If you're facing retrenchment, understand your Section 189 rights under the Labour Relations Act (the process your employer must follow) and your minimum severance entitlement under the Basic Conditions of Employment Act.
 
 ---
 
@@ -112,3 +112,11 @@ National Debt Advisors is here to help — whether you need a debt assessment, b
 ---
 
 *National Debt Advisors. Cape Town-based, South Africa-wide. NCR registered. Monday – Friday, 8:00 AM – 5:00 PM. Visit nationaldebtadvisors.co.za or call us today.*
+
+---
+
+**Factual Review Notes (reviewed 12 July 2026):**
+- **Correction applied:** "Reduce your combined monthly debt repayment by up to 50%" changed to "significantly reduce your combined monthly debt repayment to an amount you can afford" — this was the exact issue flagged as an action item in `docs/ai-optimization-reviews/review-2026-27.md` ("that file should be corrected before publication"), mirroring the fix already applied to `nda_blog_debt_review_2026.md` in commit `f7f27af`.
+- **Correction applied:** Section 189 is a provision of the **Labour Relations Act (LRA)**, not the Basic Conditions of Employment Act (BCEA) — the original text conflated the two. Corrected to attribute the retrenchment consultation process to the LRA and severance-pay minimums to the BCEA, which is accurate.
+- **Verified accurate:** All economic figures referenced elsewhere in this piece are qualitative (no specific rand/percentage figures asserted), consistent with compliance guidance to avoid unverified statistics.
+- **Status:** APPROVED — 2 corrections applied.

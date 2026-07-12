@@ -2,7 +2,7 @@
 
 **Category:** Debt Advice | Debt Blog  
 **Author:** NDA Content Team  
-**Status:** Awaiting Review  
+**Status:** Approved (1 correction applied — see Factual Review Notes)  
 **Date:** June 2026  
 **SEO Focus Keyword:** signs you need debt review South Africa  
 **Meta Description:** Struggling to keep up with repayments? Discover the 7 warning signs that you may be over-indebted and need debt review — and what to do about it before things get worse.
@@ -51,7 +51,7 @@ This is the most dangerous warning sign of all. A new loan to pay off existing l
 
 Unlike a consolidation loan, debt review:
 - Does not require you to qualify for new credit
-- Reduces interest rates (not just restructures them)
+- Can reduce your interest rates through negotiation with credit providers (not just restructure your repayment schedule)
 - Legally protects your assets from repossession
 - Works even if you've been blacklisted
 
@@ -70,7 +70,7 @@ The good news is that none of this needs to happen. If you act now, debt review 
 
 National Debt Advisors offers a **free, no-obligation debt assessment** to help you understand exactly where you stand and what your options are. There's no shame in asking for help — in fact, it's the smartest financial decision you can make.
 
-We've helped thousands of South Africans from Cape Town to Johannesburg, from domestic workers to professionals, reduce their monthly repayments by up to 50% and protect everything they've worked for.
+We've helped thousands of South Africans from Cape Town to Johannesburg, from domestic workers to professionals, significantly reduce their monthly repayments to an amount they can afford — and protect everything they've worked for.
 
 **Don't wait for the call from the sheriff. Call us first.**
 
@@ -79,3 +79,11 @@ We've helped thousands of South Africans from Cape Town to Johannesburg, from do
 ---
 
 *National Debt Advisors is registered with the National Credit Regulator (NCR) and is a proud member of the National Debt Counselling Association (NDCA). Our offices are based at 9 Long Street, Cape Town. We serve clients across all of South Africa.*
+
+---
+
+**Factual Review Notes (reviewed 12 July 2026):**
+- **Correction applied:** "Reduce their monthly repayments by up to 50%" changed to "significantly reduce their monthly repayments to an amount they can afford" — specific unverified quantitative outcome claim, same compliance issue previously corrected in `nda_blog_debt_review_2026.md` (see commit `f7f27af`) and in `blog-05`.
+- **Correction applied:** Softened "Reduces interest rates (not just restructures them)" to "Can reduce your interest rates through negotiation" — interest-rate reduction is case-by-case, not a guaranteed feature.
+- **Verified accurate:** NCR registration; NDCA membership (National Debt Advisors is a listed NDCA member); office address (3rd Floor, Westbank House, 9 Long Street, Cape Town, 8000); "reduces monthly repayments" and "works even if blacklisted" mechanics of debt review.
+- **Status:** APPROVED — 2 corrections applied.
