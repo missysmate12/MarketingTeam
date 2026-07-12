@@ -2,7 +2,7 @@
 
 **Category:** Debt Advice | Debt Blog  
 **Author:** NDA Content Team  
-**Status:** Awaiting Review  
+**Status:** Approved  
 **Date:** June 2026  
 **SEO Focus Keyword:** debt review 2026 South Africa  
 **Meta Description:** The NCR introduced major debt counselling changes in 2026. Find out how these new rules protect you better, reduce reckless lending, and make debt review more transparent than ever.
@@ -71,3 +71,11 @@ If you're struggling with monthly repayments, being harassed by creditors, or si
 ---
 
 *National Debt Advisors (NDA) is a registered debt counselling company based in Cape Town, South Africa. NDA is a member of the National Debt Counselling Association (NDCA). Always verify your debt counsellor's NCR registration before signing anything.*
+
+---
+
+**Factual Review Notes (reviewed 12 July 2026):**
+- **Verified accurate:** NCR Debt Help System (DHS) outage — the DHS was taken offline 3 February 2026 and restored 31 March 2026, matching the article's claim.
+- **Verified accurate:** "Voted South Africa's best debt counselling company in 2020" — NDA was ranked #1 at the Debt Review Awards, 11 September 2020.
+- **Verified accurate:** NDCA membership; no invented statistics found.
+- **Status:** APPROVED — no corrections required.
