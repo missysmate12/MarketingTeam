@@ -1,5 +1,5 @@
 # BLOG SUBMISSION — NATIONAL DEBT ADVISORS
-**Status:** PENDING REVIEW
+**Status:** Approved (1 correction applied — see Factual Review Notes)
 **Submitted by:** Marketing Agent
 **Date:** 12 July 2026
 **Reviewer:** Marketing Review Agent (approve or return with edits before client sign-off)
@@ -57,9 +57,9 @@ Municipal tariffs rose by an average of 9.01% from 1 July 2026, on top of an 8.7
 
 Prime moved from 10.25% to 10.5% after the SARB's 28 May 2026 rate hike. If your home loan or vehicle finance is linked to prime (most are), your repayment has already changed — confirm the new amount with your bank or on your statement.
 
-### ☐ 3. Add up your monthly petrol spend at R28.06 a litre
+### ☐ 3. Check what June's petrol spike already cost you
 
-Petrol hit a record R28.06 a litre from 3 June 2026 — up R1.43 in one adjustment. Multiply your usual monthly litres by the new price to see the real rand impact on your transport budget.
+Petrol hit a record R28.06 a litre from 3 June 2026, before easing to R26.10 a litre in the July adjustment. The relief at the pump is real — but two months at record prices already fed through to transport costs, groceries and other knock-on expenses. Check whether your budget has actually recovered, or just adjusted to a "new normal" that's still higher than before June.
 
 ### ☐ 4. List every credit agreement and its monthly minimum
 
@@ -101,14 +101,22 @@ Please check the following before approving for client submission:
 
 - [ ] Tone is consistent with NDA's empathetic, non-judgmental brand voice
 - [ ] No duplicate topics with existing published content (checklist format confirmed as new; shares news hook with the July bills blog but is a distinct, shorter format for email/social)
-- [ ] All figures match the verified facts (electricity +9.01% average from 1 July 2026 on top of +8.76% from April; prime 10.5% from 28 May 2026; petrol R28.06/litre from 3 June 2026, up R1.43; SARB's next MPC meeting 23 July 2026)
-- [ ] No invented statistics
-- [ ] No overpromising — debt review not framed as guaranteed write-off or fixed result
-- [ ] CTA link is correct and points to nationaldebtadvisors.co.za
-- [ ] No mention of specific competitors
-- [ ] Disclaimer present and accurate
+- [x] All figures match the verified facts (electricity +9.01% average from 1 July 2026 on top of +8.76% from April; prime 10.5% from 28 May 2026; petrol spiked to R28.06/litre from 3 June 2026, then eased to R26.10/litre from 1 July 2026; SARB's next MPC meeting 23 July 2026)
+- [x] No invented statistics
+- [x] No overpromising — debt review not framed as guaranteed write-off or fixed result
+- [x] CTA link is correct and points to nationaldebtadvisors.co.za
+- [x] No mention of specific competitors
+- [x] Disclaimer present and accurate
 - [ ] Confirm carousel/email adaptation splits the five checklist items cleanly across social tiles before design handoff
 
-**Approved / Changes Required / Rejected:**
-**Reviewer signature/handle:**
-**Date reviewed:**
+**Approved / Changes Required / Rejected:** Approved, with 1 correction applied
+**Reviewer signature/handle:** Marketing Review Agent
+**Date reviewed:** 19 July 2026
+
+---
+
+## FACTUAL REVIEW NOTES (19 July 2026)
+
+**Correction applied:** Item 3 presented petrol at "R28.06 a litre" as the current price to multiply against monthly usage. Verified via web search that the price eased to R26.10/litre in the 1 July 2026 adjustment — publishing the June figure as current would have overstated readers' current fuel costs. Reworded the item to acknowledge both the June spike and the July relief while keeping the underlying point (the earlier spike already affected the budget) intact.
+
+**Verified unchanged:** Electricity (+9.01% national average from 1 July 2026, on top of +8.76% from April) and prime rate (10.5% from 28 May 2026) were independently re-confirmed and required no changes.
