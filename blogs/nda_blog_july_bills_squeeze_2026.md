@@ -1,5 +1,5 @@
 # BLOG SUBMISSION — NATIONAL DEBT ADVISORS
-**Status:** PENDING REVIEW
+**Status:** Approved (1 correction applied — see Factual Review Notes)
 **Submitted by:** Marketing Agent
 **Date:** 12 July 2026
 **Reviewer:** Marketing Review Agent (approve or return with edits before client sign-off)
@@ -44,7 +44,7 @@ No existing NDA content addresses the *stacking* of three cost increases landing
 
 # Your July Bills Just Got More Expensive — Here's How to Cope
 
-If it feels like everything got more expensive at once this year, you're not imagining it. In the space of about five weeks, South African households have been hit with three separate cost increases — and they've landed on top of each other at the worst possible time: mid-year, when many budgets are already stretched thin from the first half of the year.
+If it feels like everything got more expensive at once this year, you're not imagining it. Between late May and early July, South African households were hit with three cost shocks in quick succession — a record petrol price, a municipal electricity increase, and a higher interest rate. Petrol has since eased with the July price adjustment, but electricity and interest rates remain higher, and the squeeze from all three landed at the worst possible time: mid-year, when many budgets are already stretched thin from the first half of the year.
 
 Let's lay out exactly what's changed, why it happened, and — most importantly — what you can actually do about it this week.
 
@@ -55,8 +55,8 @@ Let's lay out exactly what's changed, why it happened, and — most importantly 
 **1. Electricity: up 9.01% from 1 July**
 NERSA approved an average municipal electricity tariff increase of 9.01%, effective 1 July 2026. This comes on top of the 8.76% increase municipalities themselves absorbed from Eskom on 1 April. The exact increase you see on your bill depends on where you live — for example, Cape Town's increase has been reported at around 7.5%, while Buffalo City's has been reported at around 14%. Either way, your winter electricity bill is almost certainly higher than last year's, on top of the higher usage that colder months already bring.
 
-**2. Petrol: a record R28.06 a litre**
-From 3 June 2026, the price of 95 unleaded petrol (inland) rose to a record R28.06 a litre — up R1.43 in a single adjustment. Two things drove this: conflict in the Middle East pushing Brent crude oil above $100 a barrel, and the partial withdrawal of the temporary fuel levy relief that had been cushioning prices at the pump. If you commute, run a small business, or simply do the school run, this hits you every time you fill up.
+**2. Petrol: a record spike in June, then real relief in July**
+From 3 June 2026, the price of 95 unleaded petrol (inland) rose to a record R28.06 a litre — up R1.43 in a single adjustment, driven by Middle East conflict pushing Brent crude above $100 a barrel. That pressure has since eased: from 1 July 2026, the price dropped by roughly R1.96 a litre to R26.10, as crude prices fell back and the rand held firm. That's genuine relief at the pump — but it came after two months of record-high prices already worked their way into transport costs, groceries and other knock-on expenses, and it doesn't touch the other two pressures below, which are still current.
 
 **3. Interest rates: prime now at 10.5%**
 On 28 May 2026, the South African Reserve Bank raised the repo rate by 25 basis points to 7.00% — its first hike since May 2023 — which lifted the prime lending rate from 10.25% to 10.5%. If you have a home loan, vehicle finance, or a credit card or personal loan linked to prime, your minimum repayment has already gone up, or is about to.
@@ -65,7 +65,7 @@ On 28 May 2026, the South African Reserve Bank raised the repo rate by 25 basis 
 
 ## Why the Timing Makes This So Hard
 
-Any one of these on its own would be an annoyance. All three within five weeks is different — it's a genuine squeeze. Petrol affects your transport costs and, indirectly, the price of almost everything transported by road. Electricity affects a fixed household cost that's hard to cut quickly, especially in winter. And the interest rate increase raises the cost of debt you already have, with no extra spending on your part.
+Any one of these on its own would be an annoyance. All three within five weeks was a genuine squeeze — and even with July's petrol relief, two of the three are still fully in effect. Electricity affects a fixed household cost that's hard to cut quickly, especially in winter. The interest rate increase raises the cost of debt you already have, with no extra spending on your part. And June's record petrol price already fed through to transport costs and the price of goods moved by road — knock-on effects that don't reverse overnight just because the pump price has eased.
 
 The result is that many households now need meaningfully more rand each month just to stand still — before accounting for anything else that's gone up, like groceries or school fees.
 
@@ -119,14 +119,22 @@ Please check the following before approving for client submission:
 
 - [ ] Tone is consistent with NDA's empathetic, non-judgmental brand voice
 - [ ] No duplicate topics with existing published content
-- [ ] All figures match the verified facts (petrol R28.06/litre from 3 June 2026, up R1.43; repo 7.00% from 28 May 2026, prime 10.5%; NERSA municipal tariff +9.01% average from 1 July 2026, with Cape Town ~7.5% and Buffalo City ~14% cited as reported examples, not national averages)
-- [ ] No invented statistics beyond the verified facts supplied
-- [ ] No overpromising — debt review not framed as guaranteed write-off or fixed result
-- [ ] CTA language uses approved phrasing ("significantly reduce your monthly repayments to an amount you can afford") — no specific percentage promised
-- [ ] CTA link is correct and points to nationaldebtadvisors.co.za
-- [ ] No mention of specific competitors
-- [ ] Disclaimer present and accurate
+- [x] All figures match the verified facts (petrol spiked to R28.06/litre from 3 June 2026, then eased to R26.10/litre from 1 July 2026; repo 7.00% from 28 May 2026, prime 10.5%; NERSA municipal tariff +9.01% average from 1 July 2026, with Cape Town ~7.5% and Buffalo City ~14% cited as reported examples, not national averages)
+- [x] No invented statistics beyond the verified facts supplied
+- [x] No overpromising — debt review not framed as guaranteed write-off or fixed result
+- [x] CTA language uses approved phrasing ("significantly reduce your monthly repayments to an amount you can afford") — no specific percentage promised
+- [x] CTA link is correct and points to nationaldebtadvisors.co.za
+- [x] No mention of specific competitors
+- [x] Disclaimer present and accurate
 
-**Approved / Changes Required / Rejected:**
-**Reviewer signature/handle:**
-**Date reviewed:**
+**Approved / Changes Required / Rejected:** Approved, with 1 correction applied
+**Reviewer signature/handle:** Marketing Review Agent
+**Date reviewed:** 19 July 2026
+
+---
+
+## FACTUAL REVIEW NOTES (19 July 2026)
+
+**Correction applied:** The draft (written 12 July) presented petrol at "a record R28.06 a litre" as the current price. Independently verified via web search: the July fuel price adjustment, effective 1 July 2026, cut the inland 95-unleaded price by ~R1.96/litre to **R26.10**, driven by falling Brent crude (post a US–Iran MOU) and a resilient rand. Publishing the June figure as current would have been factually wrong and undercut the piece's "three simultaneous shocks" framing, since one of the three had by then reversed. Rewrote the petrol section and two other references to acknowledge the June spike *and* the July relief, while keeping the electricity and interest-rate pressures — which are still current and unchanged — as the core argument.
+
+**Verified unchanged:** Repo rate (7.00%) and prime rate (10.5%) since 28 May 2026, and the NERSA municipal electricity increase (9.01% national average, Cape Town ~7.5%, Buffalo City ~14%, effective 1 July 2026) were independently re-confirmed and required no changes.

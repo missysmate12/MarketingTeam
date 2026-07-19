@@ -1,5 +1,5 @@
 # BLOG SUBMISSION — NATIONAL DEBT ADVISORS
-**Status:** PENDING REVIEW
+**Status:** Approved
 **Submitted by:** Marketing Agent
 **Date:** 12 July 2026
 **Reviewer:** Marketing Review Agent (approve or return with edits before client sign-off)
@@ -129,16 +129,22 @@ At **National Debt Advisors**, we work with South Africans across every income l
 
 Please check the following before approving for client submission:
 
-- [ ] Tone is consistent with NDA's empathetic, non-judgmental brand voice
-- [ ] No duplicate topics with existing published content
-- [ ] DebtBusters Q1 2026 figures accurately represented (303% debt-to-income ratio; 101% of take-home pay on debt servicing for R50,000+/month earners; unsecured debt up 99% since 2021 vs 27% inflation and 6% salary growth for that group) — no additional or extrapolated statistics invented
-- [ ] No overpromising — debt review not framed as guaranteed write-off or fixed result
-- [ ] CTA language uses approved phrasing ("significantly reduce your monthly repayments to an amount you can afford") — no specific percentage promised
-- [ ] CTA link is correct and points to nationaldebtadvisors.co.za
-- [ ] No mention of specific competitors
-- [ ] Disclaimer present and accurate
-- [ ] Confirm DebtBusters is attributed correctly as the data source in any published/social adaptation of this piece
+- [x] Tone is consistent with NDA's empathetic, non-judgmental brand voice
+- [x] No duplicate topics with existing published content
+- [x] DebtBusters Q1 2026 figures accurately represented (303% debt-to-income ratio; 101% of take-home pay on debt servicing for R50,000+/month earners; unsecured debt up 99% since 2021 vs 27% inflation and 6% salary growth for that group) — no additional or extrapolated statistics invented
+- [x] No overpromising — debt review not framed as guaranteed write-off or fixed result
+- [x] CTA language uses approved phrasing ("significantly reduce your monthly repayments to an amount you can afford") — no specific percentage promised
+- [x] CTA link is correct and points to nationaldebtadvisors.co.za
+- [x] No mention of specific competitors
+- [x] Disclaimer present and accurate
+- [x] Confirm DebtBusters is attributed correctly as the data source in any published/social adaptation of this piece
 
-**Approved / Changes Required / Rejected:**
-**Reviewer signature/handle:**
-**Date reviewed:**
+**Approved / Changes Required / Rejected:** Approved, no corrections needed
+**Reviewer signature/handle:** Marketing Review Agent
+**Date reviewed:** 19 July 2026
+
+---
+
+## FACTUAL REVIEW NOTES (19 July 2026)
+
+Every DebtBusters Q1 2026 figure cited in this piece — the 303% debt-to-income ratio for R50,000+/month earners, the 101%-of-take-home-pay debt-servicing figure, and the 99% unsecured-debt growth since 2021 against 27% inflation and 6% salary growth for that income band — was independently re-verified via web search against current reporting on the DebtBusters Q1 2026 Debt Index. All figures check out exactly as stated; no corrections required.

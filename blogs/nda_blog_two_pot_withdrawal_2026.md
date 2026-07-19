@@ -1,5 +1,5 @@
 # BLOG SUBMISSION — NATIONAL DEBT ADVISORS
-**Status:** PENDING REVIEW
+**Status:** Approved (1 correction applied — see Factual Review Notes)
 **Submitted by:** Marketing Agent
 **Date:** 12 July 2026
 **Reviewer:** Marketing Review Agent (approve or return with edits before client sign-off)
@@ -41,13 +41,13 @@ The two-pot retirement system has paid out roughly R57 billion across about 4 mi
 **Author:** NDA Content Team
 **Estimated read time:** 6 minutes
 **Target keywords:** two-pot retirement fund debt South Africa 2026, two-pot withdrawal debt consolidation, is two-pot withdrawal enough
-**Meta description:** Nearly 4 million South Africans have withdrawn from their two-pot retirement savings, many to pay down debt. Here's why a lump sum often isn't enough on its own — and what to do next.
+**Meta description:** Millions of South Africans have withdrawn from their two-pot retirement savings, many to pay down debt. Here's why a lump sum often isn't enough on its own — and what to do next.
 
 ---
 
 # Is Your Two-Pot Withdrawal Really Enough? What the Data Says
 
-Since South Africa's two-pot retirement system came into effect, it has become a genuine lifeline for millions of people. In its first year, the system paid out approximately R57 billion across roughly 4 million withdrawal transactions — and common reasons for withdrawing include consolidating debt, covering school fees, and simply keeping up with day-to-day living costs.
+Since South Africa's two-pot retirement system came into effect in September 2024, it has become a genuine lifeline for millions of people. By early 2026, South Africans had been approved for more than R79 billion in savings-pot withdrawals across some 5.6 million tax directives — a figure that keeps climbing as more people apply — and common reasons for withdrawing include consolidating debt, covering school fees, and simply keeping up with day-to-day living costs.
 
 If you're one of the millions of South Africans who dipped into your savings pot this year, there's no need to feel guilty about it. For many people, it was the most sensible option available at the time, and it genuinely helped. This article isn't here to second-guess that decision. It's here to answer an honest follow-up question: now that the lump sum is gone, is your financial situation actually fixed — or just temporarily eased?
 
@@ -125,14 +125,22 @@ Please check the following before approving for client submission:
 
 - [ ] Tone is consistent with NDA's empathetic, non-judgmental brand voice — withdrawal decision validated, not shamed
 - [ ] No duplicate topics with existing published content
-- [ ] Two-pot figures accurately represented (~R57 billion paid out, ~4 million withdrawal transactions in first year, debt consolidation/school fees/living costs cited as common reasons) — confirm these are still the latest verified figures at time of publication
-- [ ] No invented post-withdrawal debt-to-income statistic used — argument is intentionally qualitative on this point; consider adding a verified figure here if one becomes available
-- [ ] No overpromising — debt review not framed as guaranteed write-off or fixed result
-- [ ] CTA language uses approved phrasing ("significantly reduce your monthly repayments to an amount you can afford") — no specific percentage promised
-- [ ] CTA link is correct and points to nationaldebtadvisors.co.za
-- [ ] No mention of specific competitors
-- [ ] Disclaimer present and accurate; retirement/investment advice disclaimer included given the two-pot subject matter
+- [x] Two-pot figures accurately represented (updated to R79 billion+ approved, ~5.6 million tax directives as of early 2026, debt consolidation/school fees/living costs cited as common reasons) — see Factual Review Notes
+- [x] No invented post-withdrawal debt-to-income statistic used — argument is intentionally qualitative on this point; consider adding a verified figure here if one becomes available
+- [x] No overpromising — debt review not framed as guaranteed write-off or fixed result
+- [x] CTA language uses approved phrasing ("significantly reduce your monthly repayments to an amount you can afford") — no specific percentage promised
+- [x] CTA link is correct and points to nationaldebtadvisors.co.za
+- [x] No mention of specific competitors
+- [x] Disclaimer present and accurate; retirement/investment advice disclaimer included given the two-pot subject matter
 
-**Approved / Changes Required / Rejected:**
-**Reviewer signature/handle:**
-**Date reviewed:**
+**Approved / Changes Required / Rejected:** Approved, with 1 correction applied
+**Reviewer signature/handle:** Marketing Review Agent
+**Date reviewed:** 19 July 2026
+
+---
+
+## FACTUAL REVIEW NOTES (19 July 2026)
+
+**Correction applied:** The draft's "R57 billion / ~4 million transactions in its first year" figure, current when researched, is now superseded — this is a fast-moving statistic reported cumulatively since the system's September 2024 launch. Independently verified via web search: by late Feb 2026, Treasury/SARS-linked reporting put approved withdrawals at **R79.3 billion across 5.6 million tax directives**, and the total continues to grow as more members apply. Updated the opening paragraph and meta description to the higher, more current figures and to note the total is still climbing, rather than presenting a single static "first year" number. Because this statistic moves quickly, recommend reconfirming the exact figure against the latest Treasury/SARS release immediately before publishing, and periodically thereafter if the post is kept live long-term.
+
+**Verified unchanged:** No other statistics in this piece required correction; the qualitative framing around post-withdrawal debt pressure was left as-is per the original drafting note, since no verified post-withdrawal debt-to-income figure was found in this review either.
